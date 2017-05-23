@@ -1,0 +1,15 @@
+---
+weight: 8
+title: WebComponents HN
+logo: /assets/images/webcomponents-logo.svg
+lighthouse: 45/100
+interactive-em: 2.3s
+interactive-faster-3g: 1.4s
+lighthouse-link: https://www.webpagetest.org/lighthouse.php?test=170523_AM_62cbc9bc1b8dd8e691cf0799e101b1f0&run=3#performance
+wpt-em-link: https://www.webpagetest.org/result/170523_6Y_7076f838f81e68dca0893be4ee3938dd/
+wpt-faster-3g-link: https://www.webpagetest.org/result/170523_AM_62cbc9bc1b8dd8e691cf0799e101b1f0/
+image: /assets/images/webcomponents-mobile.png
+app-link: https://hn-dot-captain-codeman.appspot.com/
+github-link: https://github.com/CaptainCodeman/hn-webcomponents
+framework-link: https://www.webcomponents.org
+---
